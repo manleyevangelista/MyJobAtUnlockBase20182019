@@ -50,10 +50,16 @@ Each entry includes the title, a link to the original tutorial (with video), an 
 
   - A step-by-step how-to video on unlocking a T-Mobile OnePlus 6T for free by converting it to the international version. Unfortunately, the accompanying written tutorial is no longer available. If I’m able to find it, I’ll update this section.
 
-     - [How to Convert T-Mobile OnePlus 6T to Global/International and SIM Unlock - YouTube](https://www.youtube.com/watch?v=X_Q39n2o2EE)
+     - **Original**: [How to Convert T-Mobile OnePlus 6T to Global/International and SIM Unlock - YouTube](https://www.youtube.com/watch?v=X_Q39n2o2EE)
+     - **Archive**: [How to Convert T-Mobile OnePlus 6T to Global/International and SIM Unlock - Archive.org](https://archive.org/details/manley-unlockbase-video-tutorials/Convert+T-Mobile+OnePlus+6T+to+International+and+SIM+Unlock.mp4)
 
 ### **How to Restore the Firmware on a Xiaomi Cell Phone**
 
    - A step-by-step how-to video on restoring firmware on a Xiaomi/Redmi/Poco device with an unlocked bootloader. Unfortunately, the accompanying written tutorial is no longer available. If I’m able to find it, I’ll update this section.
 
-     - [How to restore the firmware on a Xiaomi cell phone - YouTube](https://www.youtube.com/watch?v=_QfseT0nZyM)
+     - **Original**: [How to restore the firmware on a Xiaomi cell phone - YouTube](https://www.youtube.com/watch?v=_QfseT0nZyM)
+
+     - **Archive**: [How to restore the firmware on a Xiaomi cell phone - Archive.org](https://archive.org/details/manley-unlockbase-video-tutorials/How+to+restore+the+firmware+on+a+Xiaomi+cell+phone.mp4)
+    
+  ### **Other videos**
+   - I produced more videos while working at UnlockBase. Those have been archived [here](https://archive.org/details/manley-unlockbase-video-tutorials/).
