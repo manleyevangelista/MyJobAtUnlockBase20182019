@@ -35,7 +35,6 @@ Each entry includes the title, a link to the original tutorial (with video), an 
   - **A guide on how to unlock a Samsung LTE pocket WiFi device by reflashing a modified firmware and then rewriting the original IMEI.**
 
      - **Original**: [How to Unlock Smart LTE Pocket WiFi (Evoluzn FX-PR3L) - UnlockBase](https://www.unlockbase.com/blog/unlock-smart-lte-pocket-wifi-evoluzn-fx-pr3l/)
-
      - **Archive**: [How to Unlock Smart LTE Pocket WiFi (Evoluzn FX-PR3L) - UnlockBase](https://web.archive.org/web/20250703073805/https://www.unlockbase.com/blog/unlock-smart-lte-pocket-wifi-evoluzn-fx-pr3l/)
 
 ### How to add External Outdoor Antenna to Evoluzn FX-ID3 Modem
@@ -43,7 +42,6 @@ Each entry includes the title, a link to the original tutorial (with video), an 
   - **A guide on modifying the Evoluzn FX-ID3 by replacing its internal antennas with SMA connectors — allowing you to attach external antennas for stronger reception.**
 
      - **Original**: [How to add External Outdoor Antenna to Evoluzn FX-ID3 Modem - UnlockBase](https://www.unlockbase.com/blog/antenna-hack-for-evolulzn-fx-id3-modem/)
-   
      - **Archive**: [How to add External Outdoor Antenna to Evoluzn FX-ID3 Modem - UnlockBase](https://web.archive.org/web/20250703084212/https://www.unlockbase.com/blog/antenna-hack-for-evolulzn-fx-id3-modem/)
 
 ### **How to Convert T-Mobile OnePlus 6T to Global/International and SIM Unlock**
@@ -58,7 +56,6 @@ Each entry includes the title, a link to the original tutorial (with video), an 
    - A step-by-step how-to video on restoring firmware on a Xiaomi/Redmi/Poco device with an unlocked bootloader. Unfortunately, the accompanying written tutorial is no longer available. If I’m able to find it, I’ll update this section.
 
      - **Original**: [How to restore the firmware on a Xiaomi cell phone - YouTube](https://www.youtube.com/watch?v=_QfseT0nZyM)
-
      - **Archive**: [How to restore the firmware on a Xiaomi cell phone - Archive.org](https://archive.org/details/manley-unlockbase-video-tutorials/How+to+restore+the+firmware+on+a+Xiaomi+cell+phone.mp4)
     
   ### **Other videos**
